@@ -13,8 +13,11 @@ Traditional music development sometimes faces high expenses, time limits, and li
 
 
 The following steps are included in project.
+
 1.Data cleaning
-2.Model Training 
+
+2.Model Training
+
 3.Model Evaluation
 
 ##Acknowledgment
